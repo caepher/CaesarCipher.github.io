@@ -35,7 +35,7 @@ h1 {
 
 #input-original, #resultado {
     background-color: var(--color-terminal);
-    width: -moz-available;
+    width: -webkit-fill-available;
 }
 
 #input-original {
